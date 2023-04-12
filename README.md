@@ -1,4 +1,6 @@
-# base
+# Weather Vuetify
+
+https://user-images.githubusercontent.com/26659804/231587093-67b89d16-8f86-4c5b-9b01-b978dbf4ba03.mov
 
 ## Project setup
 
